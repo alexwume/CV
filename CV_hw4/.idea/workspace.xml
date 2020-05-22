@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce384a37-51bd-49c5-81ac-14209f484fd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtmMbujwd33pLQM5hGnHVvKGKK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.findM2">
+    <configuration name="findM2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CV_hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/findM2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CV_hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="submission" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CV_hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/submission.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testing_ransac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CV_hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/testing_ransac.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visualize" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CV_hw4" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/visualize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.findM2" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.visualize" />
+        <item itemvalue="Python.submission" />
+        <item itemvalue="Python.testing_ransac" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1913" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585599125846">
+      <screen x="720" y="10" width="1920" height="1080" />
+    </state>
+    <state x="1913" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/28.10.692.440/720.10.1920.1080@720.10.1920.1080" timestamp="1585599125846" />
+    <state x="980" y="311" width="424" height="482" key="FileChooserDialogImpl" timestamp="1586123881947">
+      <screen x="720" y="10" width="1920" height="1080" />
+    </state>
+    <state x="980" y="311" width="424" height="482" key="FileChooserDialogImpl/28.10.692.440/720.10.1920.1080@720.10.1920.1080" timestamp="1586123881947" />
+    <state x="316" y="318" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1585179629808" />
+    <state width="904" height="369" key="GridCell.Tab.0.bottom" timestamp="1585599371978">
+      <screen x="720" y="10" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="291" key="GridCell.Tab.0.bottom/28.10.2611.1079@28.10.2611.1079" timestamp="1584656979674" />
+    <state width="904" height="369" key="GridCell.Tab.0.bottom/28.10.692.440/720.10.1920.1080@720.10.1920.1080" timestamp="1585599371978" />
+    <state width="1832" height="201" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1585195673321" />
+    <state width="904" height="101" key="GridCell.Tab.0.bottom/65.24.655.426/720.10.1920.1080@720.10.1920.1080" timestamp="1585093646311" />
+    <state width="904" height="369" key="GridCell.Tab.0.center" timestamp="1585599371977">
+      <screen x="720" y="10" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="291" key="GridCell.Tab.0.center/28.10.2611.1079@28.10.2611.1079" timestamp="1584656979674" />
+    <state width="904" height="369" key="GridCell.Tab.0.center/28.10.692.440/720.10.1920.1080@720.10.1920.1080" timestamp="1585599371977" />
+    <state width="1832" height="201" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1585195673321" />
+    <state width="904" height="101" key="GridCell.Tab.0.center/65.24.655.426/720.10.1920.1080@720.10.1920.1080" timestamp="1585093646311" />
+    <state width="904" height="369" key="GridCell.Tab.0.left" timestamp="1585599371977">
+      <screen x="720" y="10" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="291" key="GridCell.Tab.0.left/28.10.2611.1079@28.10.2611.1079" timestamp="1584656979673" />
+    <state width="904" height="369" key="GridCell.Tab.0.left/28.10.692.440/720.10.1920.1080@720.10.1920.1080" timestamp="1585599371977" />
+    <state width="1832" height="201" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1585195673321" />
+    <state width="904" height="101" key="GridCell.Tab.0.left/65.24.655.426/720.10.1920.1080@720.10.1920.1080" timestamp="1585093646311" />
+    <state width="904" height="369" key="GridCell.Tab.0.right" timestamp="1585599371978">
+      <screen x="720" y="10" width="1920" height="1080" />
+    </state>
+    <state width="1832" height="291" key="GridCell.Tab.0.right/28.10.2611.1079@28.10.2611.1079" timestamp="1584656979674" />
+    <state width="904" height="369" key="GridCell.Tab.0.right/28.10.692.440/720.10.1920.1080@720.10.1920.1080" timestamp="1585599371978" />
+    <state width="1832" height="201" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1585195673321" />
+    <state width="904" height="101" key="GridCell.Tab.0.right/65.24.655.426/720.10.1920.1080@720.10.1920.1080" timestamp="1585093646311" />
+    <state x="65" y="128" width="904" height="666" key="dock-window-1" timestamp="1585174384760">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="-101" y="438" width="927" height="1040" key="dock-window-1/28.10.2611.1079@28.10.2611.1079" timestamp="1584732416057" />
+    <state x="720" y="1027" width="643" height="677" key="dock-window-1/28.10.692.440/720.10.1920.1080@720.10.1920.1080" timestamp="1585087594128" />
+    <state x="65" y="128" width="904" height="666" key="dock-window-1/65.24.1855.1056@65.24.1855.1056" timestamp="1585174384760" />
+    <state x="-464" y="535" width="643" height="678" key="dock-window-1/65.24.655.426/720.10.1920.1080@720.10.1920.1080" timestamp="1585090823689" />
+    <state x="547" y="351" width="678" height="732" key="dock-window-2" timestamp="1584418757728">
+      <screen x="28" y="10" width="2611" height="1079" />
+    </state>
+    <state x="547" y="351" width="678" height="732" key="dock-window-2/28.10.2611.1079@28.10.2611.1079" timestamp="1584418757728" />
+    <state x="496" y="268" width="678" height="703" key="dock-window-2/32.12.2847.1078@32.12.2847.1078" timestamp="1584391823590" />
+    <state x="-421" y="24" width="678" height="717" key="dock-window-2/65.24.1855.1056@65.24.1855.1056" timestamp="1584386410107" />
+  </component>
+</project>
